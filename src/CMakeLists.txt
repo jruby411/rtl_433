@@ -157,6 +157,7 @@ add_library(r_433 STATIC
     devices/lacrosse_wr1.c
     devices/lacrosse_ws7000.c
     devices/lacrossews.c
+    devices/landis_gyr.c
     devices/lightwave_rf.c
     devices/m_bus.c
     devices/markisol.c

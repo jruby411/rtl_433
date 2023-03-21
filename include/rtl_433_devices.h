@@ -251,6 +251,7 @@
     DECL(tpms_eezrv) \
     DECL(baldr_rain) \
     DECL(celsia_czc1) \
+    DECL(landis_gyr) \
 
     /* Add new decoders here. */
 
